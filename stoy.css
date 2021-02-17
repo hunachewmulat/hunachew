@@ -1,0 +1,11 @@
+body
+    {
+        color: rgb(252, 6, 39);
+    font-style: italic;background-color: cornsilk;
+}
+p{color: rgb(6, 1, 22);}
+p{font-style: inherit;}
+li{color: blue;}
+ul{font-size: x-large;
+text-shadow: limegreen;
+text-align: start;}
